@@ -1,0 +1,6 @@
+apples
+bananas
+fruit
+berries
+plums
+pears

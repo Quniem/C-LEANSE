@@ -1,0 +1,6 @@
+﻿  ConsoleApplication6.cpp
+c:\users\micole\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(13): warning C4101: 'z2': unreferenced local variable
+c:\users\micole\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(13): warning C4101: 'z3': unreferenced local variable
+c:\users\micole\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(13): warning C4101: 'z1': unreferenced local variable
+  ConsoleApplication6.vcxproj -> c:\users\micole\documents\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> c:\users\micole\documents\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Full PDB)

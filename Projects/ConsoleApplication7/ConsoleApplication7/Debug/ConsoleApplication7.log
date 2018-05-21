@@ -1,0 +1,2 @@
+﻿  ConsoleApplication7.cpp
+c:\users\micole\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(11): error C2146: syntax error: missing ';' before identifier 'cout'

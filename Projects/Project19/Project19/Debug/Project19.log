@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+c:\users\micole\documents\visual studio 2015\projects\project19\project19\source1.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\micole\documents\visual studio 2015\projects\project19\project19\source1.cpp(1): fatal error C1083: Cannot open include file: 'bits/stdc++.h': No such file or directory
+  Source.cpp
+c:\users\micole\documents\visual studio 2015\projects\project19\project19\source.cpp(1): fatal error C1083: Cannot open include file: 'bits/stdc++.h': No such file or directory
+  Generating Code...

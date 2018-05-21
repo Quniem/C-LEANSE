@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\micole\documents\visual studio 2015\projects\project12\project12\source.cpp(2): error C2059: syntax error: 'if'
+c:\users\micole\documents\visual studio 2015\projects\project12\project12\source.cpp(3): error C2059: syntax error: 'else'
+c:\users\micole\documents\visual studio 2015\projects\project12\project12\source.cpp(4): error C2059: syntax error: 'else'
